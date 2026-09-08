@@ -1,7 +1,7 @@
 Origin: RocketLinux
 Label: Rocket Linux Repository
 Codename: trixie
-Architectures: amd64 i386 source
+Architectures: amd64 source
 Components: main
 Description: Rocket Linux APT Repository
 SignWith: A40D01A6BF2ABC0C
